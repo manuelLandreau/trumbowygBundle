@@ -1,5 +1,5 @@
 {
-    "name" : "alexdw/trumbowyg-bundle",
+    "name" : "manuellandreau/trumbowyg-bundle",
     "description" : "Provides a Trumbowyg integration for you Symfony project",
     "type" : "symfony-bundle",
     "authors" : [{
