@@ -13,7 +13,7 @@
         "MIT"
     ],
     "require" : {
-        "symfony/symfony": "~2.3|~3.0"
+        "symfony/symfony": "~2.3|~3.4"
     },
     "autoload" : {
         "psr-4" : {
